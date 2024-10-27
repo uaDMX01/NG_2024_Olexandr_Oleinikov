@@ -1,9 +1,0 @@
-#include <iostream>
-
-using namespace std;
-
-int main() {
-    cout << "Olex65" << endl;
-    cout << "Ol63" << endl;
-    return 0;
-}
