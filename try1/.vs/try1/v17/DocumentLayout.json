@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coding\\NG_2024_Olexandr_Oleinikov\\try1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CD986F-9F1D-4645-8E49-D1D87DAD9ABF}|try1\\try1.vcxproj|C:\\Coding\\NG_2024_Olexandr_Oleinikov\\try1\\try1\\try1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2CD986F-9F1D-4645-8E49-D1D87DAD9ABF}|try1\\try1.vcxproj|solutionrelative:try1\\try1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "try1.cpp",
+              "DocumentMoniker": "C:\\Coding\\NG_2024_Olexandr_Oleinikov\\try1\\try1\\try1.cpp",
+              "RelativeDocumentMoniker": "try1\\try1.cpp",
+              "ToolTip": "C:\\Coding\\NG_2024_Olexandr_Oleinikov\\try1\\try1\\try1.cpp",
+              "RelativeToolTip": "try1\\try1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T12:42:18.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
